@@ -1,3 +1,23 @@
+# This is the New ReadMe file.
+### I got no idea what information to leave here so here's some hello world in C...
+
+**Hello World  in C code**
+
+    int main(){
+        printf("Hello World");
+        return 69;
+    }
+
+### Also some blockqutoes from Mr.Thanos from MCU 
+
+> "THE HARDEST CHOICES REQUIRE THE STRONGEST WILLS."
+> "YOU COULD NOT LIVE WITH YOUR OWN FAILURE, AND WHERE DID THAT BRING YOU?"
+
+
+
+
+
+
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/theme/freelancer/)
 
 [Freelancer](https://startbootstrap.com/theme/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.

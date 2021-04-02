@@ -1,4 +1,4 @@
-# This is the New ReadMe file.
+# [This is the New ReadMe file (Click to visit the repo)](https://github.com/manitouphon/WCT_W7_Lab)  
 ### I got no idea what information to leave here so here's some hello world in C...
 
 **Hello World  in C code**
@@ -10,12 +10,15 @@
 
 ### Also some blockqutoes from Mr.Thanos from MCU 
 
-> "THE HARDEST CHOICES REQUIRE THE STRONGEST WILLS."
->
+> "THE HARDEST CHOICES REQUIRE THE STRONGEST WILLS."  
 > "YOU COULD NOT LIVE WITH YOUR OWN FAILURE, AND WHERE DID THAT BRING YOU?"
 
-
-
+  
+  
+  
+  
+  
+# [Here's the orignal repo](https://github.com/startbootstrap/startbootstrap-freelancer)  
 
 
 
